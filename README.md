@@ -1,8 +1,8 @@
 # Flutter Malaysia Meetup Links
 
-| Date       | Links                                                                                                                                                            | Slides                                                                                                         |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 2020-02-05 | - [Flutter Cyberjaya Meetup #1](https://www.meetup.com/Flutter-Dart-Dev-Cyberjaya/events/268419539/)<br/>- [Photos](https://photos.app.goo.gl/TFHexgBMvwP137bX8) | - [Buzz Corner](https://fluttermy.github.io/meetup/buzz-2020-02.html)<br/>- Flutter DevOps by Bora (Microsoft) |
+| Date       | Links                                                                                                                                                            | Slides                                                                                                                                      |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-02-05 | - [Flutter Cyberjaya Meetup #1](https://www.meetup.com/Flutter-Dart-Dev-Cyberjaya/events/268419539/)<br/>- [Photos](https://photos.app.goo.gl/TFHexgBMvwP137bX8) | - [Buzz Corner](https://fluttermy.github.io/meetup/buzz-2020-02.html)<br/>- [Flutter DevOps](./2020-02-Bora-Slides.pdf) by Bora (Microsoft) |
 
 
 Join us on [Telegram](https://t.me/flutterdevmalaysia)!
