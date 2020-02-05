@@ -12,7 +12,7 @@ pass:[<h3>Rekascape</h3>]
 5th February 2020
 
 [.small]
-Slides: TBA
+Slides: https://fluttermy.github.io/meetup/
 
 
 == Intro
