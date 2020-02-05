@@ -1,0 +1,137 @@
+:revealjs_theme: night
+:revealjs_slideNumber: h.v
+:revealjs_fragments: true
+:revealjs_history: true
+:revealjs_fragmentInURL: true
+:revealjs_previewLinks: true
+[.text-center]
+== Flutter Cyberjaya Meetup #1
+
+pass:[<h3>Rekascape</h3>]
+
+5th February 2020
+
+[.small]
+Slides: TBA
+
+
+== Intro
+
+=== Who we are
+
+* Volunteers!
+* Help us!
+
+=== House Rules
+
+[.step]
+* respect opinions -- agree to disagree
+* participate
+* thank the sponsors & volunteers
+
+
+
+
+
+== BUZZCORNER
+
+
+== Interact 2019 ==
+
+video::HjZxyTJzvYg[youtube]
+
+
+
+
+
+
+
+
+
+== Development ==
+
+=== https://dartpad.dev/[DartPad]
+
+- Create a flutter gist
+- Load & render in dartpad
+- Share
+
+=== Debug https://flutter.dev/docs/testing/code-debugging#debug-flags-performance[Flags]
+
+[.stretch]
+image::https://flutter.dev/assets/tools/devtools/performance-overlay-green-bb41b466cf6bcd529b285e1510b638086fc5afb8921b8ac5a6565dee5bc44788.png[Overlay]
+
+
+=== https://flutter-widget.live/basics/introduction[Widget Livebook]
+
+=== https://flutterstudio.app/[Flutter Studio]
+
+=== http://rive.app/[Rive]
+
+video::https://cdn.2dimensions.com/features/real_assets4.mp4[options="nocontrols,autoplay,loop"]
+
+
+
+== DevTools
+
+=== https://flutter.dev/docs/development/tools/devtools/overview#what-is-devtools[DevTools] Extension
+
+- CLI, VS Code, Android Studio & IntelliJ
+- Inspector
+- Timeline View
+- Memory View
+- Perf View
+- Log View
+- Debugger
+
+=== DevTools https://flutter.dev/docs/development/tools/devtools/inspector[Inspector]
+
+[.stretch]
+image::https://flutter.dev/assets/tools/devtools/inspector_screenshot-20506a87233698df68d6ba223034f3e95b3e4e11773da7d748a3c6fdd6ca8bf8.png[Inspector]
+
+
+=== DevTools https://flutter.dev/docs/development/tools/devtools/timeline[Timeline]
+.Frame render chart
+image::https://flutter.dev/assets/tools/devtools/timeline_frame_rendering_chart-4105f54cbd00a33d60eece8645279d63b27cf565fbe85ecfc616e2d6c109ce7a.png[Render Frame,960]
+=== DevTools https://flutter.dev/docs/development/tools/devtools/timeline[Timeline]
+.Event frame trace
+image::https://flutter.dev/assets/tools/devtools/timeline_frame_events_chart-3339ef25e6f5c09c32fc7fd0cf043585dca937a2d138ef1e0650762a9240296e.png[Events]
+=== DevTools https://flutter.dev/docs/development/tools/devtools/timeline[Timeline]
+.Flame chart
+image::https://flutter.dev/assets/tools/devtools/timeline_cpu_profiler_flame_chart-f87c908a3d74bd900a2dc28da3ae2a89cf08707b01afc16a69abd33695842376.png[Flame chart]
+=== DevTools https://flutter.dev/docs/development/tools/devtools/timeline[Timeline]
+.Call tree
+image::https://flutter.dev/assets/tools/devtools/timeline_cpu_profiler_call_tree-5718f5d6ef49f2bafd5500a14fdebe51153a49a6f6a8850ad7fde48bc9fe2348.png[Call tree]
+
+
+=== DevTools https://flutter.dev/docs/development/tools/devtools/memory[Memory]
+.Memory
+image::https://flutter.dev/assets/tools/devtools/memory_anatomy-68b1ff0b9ed6ae03c388642615d2eddd57e7ddbf220be5b8d54a2fa1b8cf1e06.png[Memory]
+
+=== DevTools https://flutter.dev/docs/development/tools/devtools/debugger[Debugger]
+.Debugger
+image::https://flutter.dev/assets/tools/devtools/debugger_screenshot-e0e87a8a45952b4c109a24213a0d01143e58fa17384f2a64c951e2d900cd87ca.png[Debugger]
+
+
+=== DevTools https://flutter.dev/docs/development/tools/devtools/logging[Logging]
+.Logging
+image::https://flutter.dev/assets/tools/devtools/logging_log_entries-04dfd1e7ef59a7205de628a99ffc0780e9a382c4b9aca66a275aa72548f88484.png[Logging]
+
+
+
+
+
+
+== Resources ==
+
+=== https://github.com/Solido/awesome-flutter/[Awesome-Flutter]
+- Collection of good resources for Flutter
+
+
+=== https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl[The Boring Show]
+
+
+
+
+
+== /Buzz
